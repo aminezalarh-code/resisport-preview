@@ -1,0 +1,4 @@
+# Static preview of resisport.com, for review only.
+# The live site is https://resisport.com/ — this copy must never be indexed.
+User-agent: *
+Disallow: /
